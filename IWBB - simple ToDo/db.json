@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": "46eb7f26-6eb2-4cbe-bc8d-28f1f34da2fe",
+      "category": "потом",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "b0d6a0be-51b3-4cd0-9378-d9326ae9925e",
+      "category": "dddddddddd",
+      "title": "go go gog ",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "f04c6fce-288e-421c-84fe-985ca269cb0f",
+      "category": "todo",
+      "title": "Eat",
+      "description": "Eat food",
+      "location": "Номе",
+      "date": "24/03/2022",
+      "time": "19,00",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "0910df16-42bd-40ba-b64e-ce8497df8020",
+      "category": "mind",
+      "title": "read",
+      "description": "book",
+      "location": "home",
+      "date": "15/05/2022",
+      "time": "22.00",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "b417cfc4-f856-4c06-b757-919d218e1e9e",
+      "category": "today",
+      "title": "Learn",
+      "description": "router",
+      "location": "workplace",
+      "date": "25/03/2022",
+      "time": "10.30 - ...",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "7e76011a-a750-4c2f-ba65-999012560d47",
+      "category": "num",
+      "title": "111111",
+      "description": "*****",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "3dd7d951-43bb-4155-ac4f-3b09b1ffcfee",
+      "category": "num",
+      "title": "222",
+      "description": "////////-----/////",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "b3912336-ee2d-4cd8-a6d9-cfdb5a399d4a",
+      "category": "num",
+      "title": "33333",
+      "description": "---------*****-----------------",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    },
+    {
+      "id": "bf134235-ee65-4b72-a5c6-4f6862eb8276",
+      "category": "new",
+      "title": "77777",
+      "description": "***----***",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "Johnny B. Good"
+    }
+  ]
+}
